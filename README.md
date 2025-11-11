@@ -194,10 +194,24 @@ Hệ thống đã được đánh giá toàn diện và đạt được các ch�
 | 😐 Trung lập (Neutral) | 80.2% |
 
 ---
+ ## 📷 Demo giao diện
+<p align="center">
+  <img src="home.jpg" alt="System Architecture" width="1000"/>
+</p>
+
+ <p align="center">
+  <img src="phantichfileex.jpg" alt="System Architecture" width="1000"/>
+</p>
+
+<p align="center">
+  <img src="democamxuc.jpg" alt="System Architecture" width="1000"/>
+</p>
 
 ## 🤝 Đóng góp
 Các thành viên nhóm
+
 Bùi Thị Ngọc Xương
+
 Bùi Hải Phong
 
 
