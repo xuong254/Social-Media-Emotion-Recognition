@@ -1,0 +1,71 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+.card-header {
+    border-radius: 15px 15px 0 0 !important;
+    font-weight: bold;
+}
+
+.emotion-badge {
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.emotion-enjoyment { background:#fd7e14;color:#222}
+.emotion-sadness { background:#7c5bb9;color:#09203f }
+.emotion-anger { background: #ffd54f;color:#222 }
+.emotion-disgust { background:#d63384;color:#122 }
+.emotion-fear { background:#b3afba;color:#222 }
+.emotion-surprise {background:#20c997;color:#222 }
+.emotion-other { background:#0dcaf0;color:#222}
+
+.progress {
+    height: 25px;
+    border-radius: 12px;
+}
+
+.progress-bar {
+    border-radius: 12px;
+}
+
+.sample-item {
+    padding: 10px;
+    border-left: 4px solid #007bff;
+    margin-bottom: 8px;
+    background: white;
+    border-radius: 5px;
+}
+
+.stats-card {
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+#sampleData::-webkit-scrollbar {
+    width: 6px;
+}
+
+#sampleData::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+#sampleData::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+#sampleData::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
