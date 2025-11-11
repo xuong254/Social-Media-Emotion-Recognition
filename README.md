@@ -79,5 +79,15 @@ source venv/bin/activate
 # Trên Windows
 python -m venv venv
 venv\\Scripts\\activate
+```
 
+2. **Cài đặt các thư viện cần thiết**
+```bash
+pip install -r requirements.txt
+```
+
+3. **Khởi chạy ứng dụng**
+```bash
+python app.py
+```
 
