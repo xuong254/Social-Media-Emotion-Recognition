@@ -123,12 +123,12 @@ models/svm_tfidf_pipeline.joblib
 
 6. **Chạy web để test kết quả mô hình**
 ```bash
-python app.py
+python -m http.server 8000
 
 ```
 → Mở trình duyệt và truy cập:
 ```bash
-http://127.0.0.1:5000
+http://127.0.0.1:8000/index.html
 
 ```
 ## 📁 Cấu trúc thư mục
