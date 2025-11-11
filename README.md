@@ -70,7 +70,7 @@ Hệ thống Phân tích Cảm xúc Văn bản Tiếng Việt là một giải p
 
 ### Các bước cài đặt chi tiết
 
-2. **Tạo và kích hoạt môi trường ảo**
+1. **Tạo và kích hoạt môi trường ảo**
 ```bash
 # Trên Linux/macOS
 python -m venv venv
